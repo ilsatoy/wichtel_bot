@@ -1,0 +1,2 @@
+# wichtel_bot
+this script will help you to organize your game of secret santa (which is called 'wichteln' in austria), without any physical contact of the participants and the opportunity to keep the 'wichtel-assignment' top-secret for everybody. this small program allows you to assign each participant, who signed up via a spread sheet, to a random other participant and send each one of them an automated email, which contains the presentee's name, their likes, dislikes and postal address if given.
