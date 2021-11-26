@@ -52,21 +52,23 @@ instructions)
 
 ## further information about instructions marked with one or multiple *
 
-\* values and variables:
+\* values and variables
+
 if you are new to this, some of the wording might be a little confusing. a variable is a symbolic name, that is a reference or pointer to an object (e.g. a = 5; a is our variable and 5 is our value.)
 in this code the variable 'number_of_gifts' is set to the value 1 by default. If you change it to another number, python will use this new number, every time we use the variable 'number_of_gifts'.
 you might ask yourself why the values are between quotation marks. this is, because we want python to know, that we want the values to be a text (called string). So please stick with the quotation marks and use either "" or '' when setting the values.
 
-\** the different message components:
-msg_1				is used in every message
-msg_2ld			is used, if the row of the csv included both likes and dislikes of the participant
-msg_2l			is used, if the row of the csv only included likes
-msg_2d			is used, if the row of the csv only included dislikes
-msg_2				is used, if the row of the csv included neither likes nor dislikes
-msg_3				is used, if number_of_gifts = 1
-msg_3_multiple_gifts		is used, if number_of_gifts > 2
-msg_multiple_gifts_dif_cost	is used, if number_of_gifts > 2 AND the value of the variable 'max_cost_alt' is not an empty string.
-msg_4				is only used, if the row of the csv contained information about the postal address in the last 3 colums
+\** the different message components
+
+msg_1				is used in every message\
+msg_2ld				is used, if the row of the csv included both likes and dislikes of the participant\
+msg_2l				is used, if the row of the csv only included likes\
+msg_2d			is used, if the row of the csv only included dislikes\
+msg_2				is used, if the row of the csv included neither likes nor dislikes\
+msg_3				is used, if number_of_gifts = 1\
+msg_3_multiple_gifts		is used, if number_of_gifts > 2\
+msg_multiple_gifts_dif_cost	is used, if number_of_gifts > 2 AND the value of the variable 'max_cost_alt' is not an empty string.\
+msg_4				is only used, if the row of the csv contained information about the postal address in the last 3 colums\
 msg_5				will be used in every message
 
 \*** running the test csv 'test_wichtel_bot.csv'
