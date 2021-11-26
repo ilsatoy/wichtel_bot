@@ -1,5 +1,5 @@
 # wichtel_bot
-november 2021
+november 2021\
 ilsa toy
 
 this script will help you to organize your game of secret santa (which is called 'wichteln' in austria), without any physical contact of the participants and the opportunity to keep the 'wichtel-assignment' top-secret for everybody. this small program allows you to assign each participant, who signed up via a spread sheet, to a random other participant and send each one of them an automated email, which contains the presentee's name, their likes, dislikes and postal address if given.
@@ -44,7 +44,7 @@ instructions)
 
 * step 13: (optional) ONLY change the value of the variable 'max_cost_alt' if you want to exchange multiple gifts AND want to the maximum amount of money for the last gift to differ (e.g. be higher) than for the other ones.
 
-*step 14: (optional) if you want to change the messages you can do so, by scrolling down to the message components, starting at line 153. look below for further information about the different message components.** make sure, your changes go together with the following if-statements.
+* step 14: (optional) if you want to change the messages you can do so, by scrolling down to the message components, starting at line 153. look below for further information about the different message components.** make sure, your changes go together with the following if-statements.
 
 * step 15: run this script (a test run with a test csv file is advised)***
 	note, that the requested password is the password you set for your new gmail account.
