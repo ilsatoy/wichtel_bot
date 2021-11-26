@@ -6,7 +6,7 @@ This script will help you to organize your game of Secret Santa (which is called
 
 
 ## Disclaimer
-I am new to programming and this is my first project. so please be kind.
+I am new to programming and this is my first project. So please be kind.
 When writing comments and explanations, i tend to think of the readers as people like me, who have little to no knowledge about coding and stuff. So please excuse the detailed readme and comments.
 
 ## How to use this code
