@@ -5,11 +5,11 @@ ilsa toy
 this script will help you to organize your game of secret santa (which is called 'wichteln' in austria), without any physical contact of the participants and the opportunity to keep the 'wichtel-assignment' top-secret for everybody. this small program allows you to assign each participant, who signed up via a spread sheet, to a random other participant and send each one of them an automated email, which contains the presentee's name, their likes, dislikes and postal address if given.
 
 
-# disclaimer
+## disclaimer
 i am new to programming and this is my first project. so please be kind.
 when writing comments and explanations, i tend to think of the readers as people like me, who have little to no knowledge about coding and stuff. so please excuse the detailed commenting.
 
-# how to use this code
+## how to use this code
 
 * step 1: download this file and open the containing folder in your terminal (on windows press shift + right click anywhere in the folder, then select 'open powershell window here')
 
@@ -50,7 +50,7 @@ instructions)
 	note, that the requested password is the password you set for your new gmail account.
 
 
-# further information about instructions marked with one or multiple *
+## further information about instructions marked with one or multiple *
 
 \* values and variables:
 if you are new to this, some of the wording might be a little confusing. a variable is a symbolic name, that is a reference or pointer to an object (e.g. a = 5; a is our variable and 5 is our value.)
