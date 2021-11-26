@@ -11,7 +11,7 @@ when writing comments and explanations, i tend to think of the readers as people
 
 # how to use this code
 
-*step 1: download this file and open the containing folder in your terminal (on windows press shift + right click anywhere in the folder, then select 'open powershell window here')
+* step 1: download this file and open the containing folder in your terminal (on windows press shift + right click anywhere in the folder, then select 'open powershell window here')
 
 * step 2: make sure that python is installed (https://www.python.org/downloads/ - there are great online tutorials on how to install it, i recommend watching one)
 
